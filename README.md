@@ -1,1 +1,2 @@
 # Password-Generator
+This project consists of two files. The password maker file generates a password for the user, and the password tester tests the password against common rules required for a password. The password maker file has a user interface that allows the user to click a button, which in turn will generate a password. The password tester file lists out all the conditions it is checking for, then when the user inputs a password, it will say whether or not it is a valid password.
